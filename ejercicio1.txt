@@ -1,0 +1,6 @@
+Crea esta estructura y diseño usando flexbox, recuerda usar las propiedades flex-grow y flex-basis 
+para que puedas crear un contenedor de 2 columnas donde la información acerca de tí 
+abarque más espacio que la imagen de lado izquierdo, para el botón deberás usar la pseudoclase hover para agregar
+otro color de fondo cuando el cursor se posicione en el elemento. Puedes usar la paleta de colores que sea de mayor agrado para tí.
+
+Cuando finalices carga tu código HTML y CSS. Tienes 40 minutos para terminar con esta sección.
