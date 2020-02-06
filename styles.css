@@ -148,3 +148,48 @@ body{
 .myInfo{
     padding: 20px;
 }
+.servicios{
+    margin-top: 150px;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.fila{
+    width: 70%;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.servicio{
+    width: 30%;
+    height: 200px;
+    border: solid 2px rgb(250, 247, 106);;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(250, 247, 106);
+    transition: ease;
+    transition-duration: 0.4s;
+}
+.servicio>i{
+    font-size: 90px;
+}
+.servicio>p{
+    margin-top: 0px;
+    font-size: 10px;
+}
+.servicio:hover{
+    background-color: rgb(41, 40, 38);
+    border: solid 2px rgb(41, 40, 38);
+    color: linen;
+}
